@@ -1,5 +1,5 @@
 .bg-red {
-    background-color: #E52629;
+    background-color: #ab0306;
 }
     
 .bg-grey {
@@ -80,8 +80,13 @@ h5 {
     font-size: 100%;
 }
 
-.seancesK {
+.seancesKinfo {
     font-size: 20px;
+}
+
+.seancesKtarif-H {
+    font-size: 28px;
+    text-align: center;
 }
 .title {
     padding-top: 50px;
@@ -100,6 +105,10 @@ h5 {
 
 .font-red {
     color:#E52629;
+}
+
+.font-white {
+    color:white;
 }
 
 #newsletterButton {
@@ -170,7 +179,15 @@ p {
     height: 100%;
     object-fit: cover; 
     transition: .5s;
-  }
+}
+
+.seancesbox1 {
+    border-radius: 0px 120px 0px 120px;
+}
+
+.seancesbox2 {
+    border-radius: 120px 0px 120px 0px;
+}
   
 
   
