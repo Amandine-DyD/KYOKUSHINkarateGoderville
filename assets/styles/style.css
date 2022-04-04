@@ -34,7 +34,7 @@
 
 .bg-img-karate { 
 
-    background: linear-gradient(to bottom, rgba(255,255,255,0) 50%, rgba(255,255,255,1) 100%),url("../img/accueil.png");
+    background: linear-gradient(to bottom, rgba(255,255,255,0) 50%, rgba(255,255,255,1) 100%),url("../img/accueil.jpg");
     background-color: #cccccc;
     height: 750px;
     background-position: center;
@@ -44,7 +44,7 @@
 }
 
 .bg-img-marbre {
-    background : url("../img/background-img-marbre.png");
+    background : url("../img/background-img-marbre.jpg");
     background-size: cover;
     width: 100%;
     height: 1350px;
@@ -214,7 +214,7 @@ p {
 
     @media (min-width: 414px) and (max-width: 1024px) {
         .bg-img-marbre {
-            background-image: url(../img/background-img-marbre.png);
+            background-image: url(../img/background-img-marbre.jpg);
             background-size: cover;
             width: 100%;
             height: 2600px;
