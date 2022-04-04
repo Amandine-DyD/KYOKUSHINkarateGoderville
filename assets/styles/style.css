@@ -1,5 +1,5 @@
 .bg-red {
-    background-color: #ab0306;
+    background-color: #952325;
 }
     
 .bg-grey {
@@ -124,6 +124,11 @@ h5 {
 #oyama {
     max-width: 100%;
     align-self: center;
+    border-radius: 50px 0px 50px 0px;
+}
+
+#prezclub {
+    border-radius: 0px 50px 0px 50px;
 }
 
 .presentation-kyokushin {
