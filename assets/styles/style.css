@@ -1,3 +1,8 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-display: swap;
+}
+
 .bg-red {
     background-color: #952325;
 }
@@ -53,8 +58,7 @@ h1 {
     padding: 25%;
     text-align: center;
     font-weight: bold;
-    font-size : 400%;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;   
+    font-size : 400%;  
 }
 
 h2 {
