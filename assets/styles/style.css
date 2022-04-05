@@ -125,7 +125,9 @@ h5 {
     font-size: 30px;
 }
 
-
+.kyokushin {
+    border-radius: 0px 100px 0px 100px;
+}
 
 .oyama {
     width: 250px;
@@ -134,7 +136,7 @@ h5 {
 }
 
 .presentation-kyokushin {
-    max-height: 250px;
+    max-height: 200px;
 }
 
 p {
@@ -250,7 +252,7 @@ p {
 
      @media (min-width: 200px) and (max-width: 765px) {
         .bg-nous {
-            height: 3000px;
+            height: 1500px;
         }
 
         h1 {
@@ -259,7 +261,7 @@ p {
         }
 
         #souscriptionButton {
-            font-size : 20px;
+            font-size : 18px;
         }
         
     }
